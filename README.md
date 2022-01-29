@@ -11,3 +11,6 @@ The submission will be evaluated using the Mean Square Error. One can use sklear
 How to Generate a valid Submission File
 Sklearn models support the predict() method to generate the predicted values
 The participant should submit a .csv file with exactly  17,520 rows with 3 column ['Clearsky DHI', 'Clearsky DNI’,'Clearsky GHI']. 
+
+# Data
+https://machinehack.com/hackathon/wipro_sustainability_machine_learning_challenge/data
