@@ -16,5 +16,6 @@ The participant should submit a .csv file with exactly  17,520 rows with 3 colum
 https://machinehack.com/hackathon/wipro_sustainability_machine_learning_challenge/data
 
 # Branch set up
-Main branch has the latest code details
-version<number> keeps track of changes (each version will give complete output)
++ Main branch has the latest code details
++ Branches with version<number> (version1,version2,etc) keeps track of changes 
++ for eg: branch:version1 is the basic skeleton, branch:version2 gives reasonable output etc
